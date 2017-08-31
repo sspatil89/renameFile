@@ -1,5 +1,8 @@
 import os
+"""
+Renames the multiple file within the same directory with appending number
 
+"""
 path = 'Enter the directory path'
 files = os.listdir(path)
 i = 1
